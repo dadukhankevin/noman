@@ -1,4 +1,3 @@
-first a meme
 ![image](https://github.com/user-attachments/assets/4fbf488b-9497-41bf-b9f9-117b642685d2)
 
 # Noman
