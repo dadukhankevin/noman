@@ -8,7 +8,7 @@ Noman is a tool that generates a historical database of ideas—both successful 
    - A curious thinker (user) presents an idea that either ultimately proved valid ("positive") or was later disproven ("negative")
    - A critical analyst (assistant) evaluates the idea using only knowledge available at that time
 2. Each entry includes technical feasibility analysis, implementation challenges, and comparison with alternatives
-3. The historical outcomes serve as ground truth for whether ideas were good or bad
+3. The historical outcomes serve as ground truth for whether ideas were good or bad - which tell the llm to be critical or positive about the idea.
 4. All conversations are saved to a JSONL database that can be used to train LLMs to better evaluate ideas
 
 ## Installation
