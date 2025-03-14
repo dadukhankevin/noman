@@ -1,3 +1,6 @@
+first a meme
+![image](https://github.com/user-attachments/assets/4fbf488b-9497-41bf-b9f9-117b642685d2)
+
 # Noman
 
 Noman is a tool that generates a historical database of ideas—both successful and unsuccessful—to train LLMs in critical evaluation. By using history as validation, it creates a conversations over concepts that were either confirmed or refuted over time. Each entry simulates a conversation between a user and an assistant, restricted to using only the knowledge available at that specific historical moment. This approach aims to capture valuable data: sound reasoning within historical constraints that can be generalized to present-day scenarios.
